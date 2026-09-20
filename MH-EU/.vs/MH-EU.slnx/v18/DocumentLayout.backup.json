@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\MH-EUtagallamai\\MH-EU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1502265-795A-4195-859B-F9E5D3DA25D9}|MH-EU\\MH-EU.csproj|c:\\users\\user\\documents\\github\\mh-eutagallamai\\mh-eu\\mh-eu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1502265-795A-4195-859B-F9E5D3DA25D9}|MH-EU\\MH-EU.csproj|solutionrelative:mh-eu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MH-EUtagallamai\\MH-EU\\MH-EU\\Program.cs",
+              "RelativeDocumentMoniker": "MH-EU\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\MH-EUtagallamai\\MH-EU\\MH-EU\\Program.cs",
+              "RelativeToolTip": "MH-EU\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T12:55:39.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
